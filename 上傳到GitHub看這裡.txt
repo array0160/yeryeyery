@@ -1,0 +1,15 @@
+BookOCR Web v2
+
+你不用再手動建立 YML。
+
+這個資料夾裡已經有：
+.github\workflows\deploy-pages.yml
+
+更新網站時：
+1. 進入這個資料夾
+2. 把裡面的內容全部上傳 / 覆蓋到同一個 GitHub repo 根目錄
+3. Commit changes
+4. 等 Actions 綠色勾勾
+5. Ctrl+F5 開網站
+
+Settings → Pages → GitHub Actions 只需要第一次設定一次。
